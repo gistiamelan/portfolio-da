@@ -5,5 +5,5 @@ Welcome! This repository was created to document my data analysis project.
 ## Upcoming Projects
 
 ## Contact
-- LinkedIn: linkedin.com/in/gistiamelan
+- LinkedIn: www.linkedin.com/in/gistiamelan
 - Email: gstaamelan@gmail.com
